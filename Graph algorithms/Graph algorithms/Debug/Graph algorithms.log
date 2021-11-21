@@ -1,0 +1,7 @@
+﻿  Graph.cpp
+C:\Users\Kashitsky\source\repos\Graph algorithms\Graph algorithms\Graph.cpp(204,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kashitsky\source\repos\Graph algorithms\Graph algorithms\Graph.cpp(205,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kashitsky\source\repos\Graph algorithms\Graph algorithms\Graph.cpp(105): warning C4172: возвращение адреса локальной или временной переменной : now
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+Edge.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  Graph algorithms.vcxproj -> C:\Users\Kashitsky\source\repos\Graph algorithms\Debug\Graph algorithms.exe

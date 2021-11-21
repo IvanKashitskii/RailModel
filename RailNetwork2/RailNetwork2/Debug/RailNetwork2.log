@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (RailNetwork2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  route.cpp
+C:\Users\Ratnik\Google Диск\RailModel\RailNetwork2\RailNetwork2\route.cpp(34,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  RailNetwork2.vcxproj -> C:\Users\Ratnik\Google Диск\RailModel\RailNetwork2\Debug\RailNetwork.exe

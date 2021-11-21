@@ -1,0 +1,43 @@
+﻿  Edge.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Edge.cpp(76,18): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Graph.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Graph.cpp(422,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Graph.cpp(422,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Node.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Node.cpp(65,17): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Node.cpp(71,17): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Node.cpp(77,17): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  line.cpp
+  Network.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\Network.cpp(283,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  RailObject.cpp
+  route.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\route.cpp(36,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\route.cpp(117,2): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  station.cpp
+  MarketSegment.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(101,96): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(236,53): warning C4305: аргумент: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(281,55): warning C4305: аргумент: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(285,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  RailCar.cpp
+  Request.cpp
+  Main.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\Main.cpp(220,10): warning C4566: символ, представленный универсальным именем символа "\u00F5", невозможно представить в текущей кодовой странице (1251)
+  vehicle.cpp
+  Создание кода...
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Graph.cpp(165): warning C4172: возвращение адреса локальной или временной переменной : now
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Edge.cpp(66): warning C4715: find: значение возвращается не при всех путях выполнения
+  RailModel.vcxproj -> C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\x64\Debug\RailModel.exe

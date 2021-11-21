@@ -1,0 +1,41 @@
+﻿  Edge.cpp
+  Graph.cpp
+  Node.cpp
+  line.cpp
+  Network.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\Network.cpp(37,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\Network.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\Network.cpp(110,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\Network.cpp(115,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\helper_func.hpp(10,34): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\Network.cpp(281): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto excep_min<float>(std::vector<float,std::allocator<float>> &,std::vector<int,std::allocator<int>>)"
+  RailObject.cpp
+  route.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailNetwork2\RailNetwork2\route.cpp(36,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  station.cpp
+  MarketSegment.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(101,96): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(236,53): warning C4305: аргумент: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(281,55): warning C4305: аргумент: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\MarketSegment.cpp(285,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  RailCar.cpp
+  Request.cpp
+  Main.cpp
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\RailModel\Main.cpp(220,10): warning C4566: символ, представленный универсальным именем символа "\u00F5", невозможно представить в текущей кодовой странице (1251)
+  vehicle.cpp
+  Создание кода...
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Graph.cpp(165): warning C4172: возвращение адреса локальной или временной переменной : now
+C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\Graph algorithms\Graph algorithms\Edge.cpp(66): warning C4715: find: значение возвращается не при всех путях выполнения
+  RailModel.vcxproj -> C:\Users\Ratnik\OneDrive\Рабочий стол\RailModel\RailModel — копия (1)\Debug\RailModel.exe
