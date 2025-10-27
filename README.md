@@ -75,7 +75,7 @@ Typical outputs include wagon turnaround distributions, empty-run ratios, and ut
 
 Kashitskii I. (2021). *О влиянии различных условий управления вагонными парками на качество использования подвижного состава.*  
 Conference on Transport Systems, October 2021.  
-[📄 Read paper (PDF)](docs/Конференция 20 октября 2021 г. - О влиянии различных условий на показатели.pdf)
+[📄 Read paper (PDF)](docs/Conference2021_RailModel.pdf)
 
 ---
 
