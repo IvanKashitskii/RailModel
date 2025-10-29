@@ -57,11 +57,11 @@ Typical outputs include wagon turnaround distributions, empty-run ratios, and ut
 ## Example Notebook
 
 The Jupyter notebook  
-[`RailModel_analysys.ipynb`](https://github.com/IvanKashitskii/RailModel/blob/main/Notebooks/RailModel_analysys.ipynb)  
+[`RailModel_analysys.ipynb`](https://github.com/IvanKashitskii/RailModel/blob/main/Notebooks/RailModel_analysis.ipynb)  
 demonstrates data analysis and visualization of simulation results.
 
 You can also open it directly in  
-[Google Colab](https://colab.research.google.com/github/IvanKashitskii/RailModel/blob/main/Notebooks/RailModel_analysys.ipynb)  
+[Google Colab](https://colab.research.google.com/github/IvanKashitskii/RailModel/blob/main/Notebooks/RailModel_analysis.ipynb)  
 to explore the charts interactively.
 
 
