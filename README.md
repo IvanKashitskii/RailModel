@@ -61,7 +61,7 @@ The Jupyter notebook
 demonstrates data analysis and visualization of simulation results.
 
 You can also open it directly in  
-[![Open In Colab](https://colab.research.googleusercontent.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanKashitskii/RailModel/blob/main/Notebooks/RailModel_analysis.ipynb)
+[Google Colab](https://colab.research.google.com/github/IvanKashitskii/RailModel/blob/main/Notebooks/RailModel_analysis.ipynb)
 to explore the charts interactively.
 
 
