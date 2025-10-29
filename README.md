@@ -9,10 +9,11 @@ The model explores how operational conditions, dispatching policies, and informa
 ## Overview
 
 **RailModel** simulates daily wagon circulation within a simplified railway network.  
-The model evaluates how dispatching rules, control policies, and empty-run routing strategies affect key efficiency indicators such as:
-– empty-run ratio,
-– wagon turnaround time,
-– fleet utilization.
+The model evaluates how **dispatching rules**, **control policies**, and **empty-run routing strategies** affect key efficiency indicators such as:
+
+- **empty-run ratio**  
+- **wagon turnaround time**  
+- **fleet utilization**
 
 The model compares alternative operating regimes — for example, unified vs. split fleets, and systems with or without redistribution.
 
