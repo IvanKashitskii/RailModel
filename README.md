@@ -54,6 +54,17 @@ Typical outputs include wagon turnaround distributions, empty-run ratios, and ut
 
 ---
 
+## 📘 Example Notebook
+
+The notebook [`RailModel_Visualization.ipynb`](./Notebooks/RailModel_Visualization.ipynb)  
+demonstrates data analysis and visualization of simulation results.
+
+👉 You can open it directly in [Google Colab](https://colab.research.google.com/github/IvanKashitskii/RailModel/blob/main/Notebooks/RailModel_Visualization.ipynb)  
+to reproduce the charts and calculations.
+
+
+---
+
 ## Key Findings
 
 - Dispatching regimes **with redistribution** significantly reduce empty-run ratios compared to static allocation.  
